@@ -1,0 +1,58 @@
+img {
+  border-radius: 10px;
+}
+
+.itemDetails {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+}
+
+.itemName {
+  width: fit-content;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  flex: 1;
+}
+
+.itemPrice {
+  width: 150px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.totalCost {
+  display: flex;
+  width: 100%;  
+  border-top: 2px solid black;
+  justify-content: space-between;
+  padding: 20px;
+  position: static;
+  height: 15vh;
+}
+
+h1 {
+  text-align: center;
+  padding: 30px;
+}
+.button-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+button {
+  border: none;
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: blue;
+}

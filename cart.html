@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cart</title>
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="../css/cart.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Icons+Outlined">
+</head>
+<body>
+  <div class="container">
+    <div class="header"></div>
+    <div class="contentHolder">
+      <h1>Your Cart</h1>
+      <div class="button-container">
+        <button onclick="clearCart()">Clear Cart</button>
+      </div>
+      <div class="cartsView" id="cartsView"></div>
+    </div>
+    <div class="totalCost">
+      <div>
+        <h2>Total</h2>
+      </div>
+      <div id="totalPrice">
+        <h2 id="finalCost">Rs 0</h2>
+      </div>
+    </div>
+  </div>
+  <script type="module" src="../modules/cart.js"></script>
+</body>
+</html>

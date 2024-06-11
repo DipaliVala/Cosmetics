@@ -1,0 +1,255 @@
+{
+    "categories": [
+        "MAKEUP",
+        "HAIRCARE",
+        "SKINCARE",
+        "BATH&BODY",
+        "FRAGRANCE",
+        "APPLIANCES"
+    ],
+    "products": [
+        {
+            "name": "Maybelline New York Fit Me Matte+Poreless Liquid Foundation 16H Oil Control - 128 Warm Nude (30 ml)",
+            "price": "Rs 409",
+            "src": "https://images-static.nykaa.com/media/catalog/product/a/8/a8e91d06902395718338_1r.jpg",
+            "category": "MAKEUP"
+        },
+        {
+            "name": "Blue Heaven Festive Combo",
+            "price": "Rs 747",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/b/6/b602d99ThePartyGirlCombo_1.jpg",
+            "category": "MAKEUP"
+        },
+        {
+            "name": "Ponds Natural Glow Face Powder - Pink Glow (30g)",
+            "price": "Rs 106",
+            "src": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQqeMrddSRo4P7uWc4aq5rX8uVgFYpNCgDWzh1SyHfzLtBdHDt-VWzGT8JnmVrFcbs8PM9OEH0P1tf7rIZHUjE4MmCoFQbheLVthadr8jeM__yb1QZV863bGw&usqp=CAE",
+            "category": "MAKEUP"
+        },
+        {
+            "name": "SUGAR Contour De Force Face Palette - 01 Subtle Summit (12gm)",
+            "price": "Rs 695",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/9/19b50528906090492249_01.jpg",
+            "category": "MAKEUP"
+        },
+        {
+            "name": "Charlotte Tilbury Xmas 2023 Pillow Talk Matte Revolution Bauble Lipstick (1.5 g)",
+            "price": "Rs 1,650",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/2/f214da2CHAAA00000746_1.jpg",
+            "category": "MAKEUP"
+        },
+        {
+            "name": "Maybelline New York The Colossal Combo - Mascara + Bold Liner + Kajal (3 pcs)",
+            "price": "Rs 762",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/a/aacbb8bMAYBE00000467_1.jpg",
+            "category": "MAKEUP"
+        },
+        {
+            "name": "Bronson Professional Pizza Puff Triangle Makeup Blender Sponge Powder Puff Finger Pad With Strap 2 Pcs - Multicolor (2 pcs)",
+            "price": "Rs 147",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/6/5641f9a7452216142020_01.jpg",
+            "category": "MAKEUP"
+        },
+        {
+            "name": "Blue Heaven Matte Love Long Lasting Hydrating Mini Lipsticks - Pack Of 10 (13 g)",
+            "price": "Rs 339",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/a/caa0428BLUEH00000747_1.jpg",
+            "category": "MAKEUP"
+        },
+        
+        {
+            "name": "Godrej Professional Keracare Moisture Recharge Conditioner (250g)",
+            "price": "Rs 792",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/b/5b2ac078901023021190_2802241.jpg",
+            "category": "HAIRCARE"
+        },
+        {
+            "name": "Godrej Professional Keracare Keratin Damage Repair Mask (200g)",
+            "price": "Rs 880",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/5/b/5b2ac078901023021206_2802241.jpg",
+            "category": "HAIRCARE"
+        },
+        {
+            "name": "Godrej Professional Argan Oil (100ml)",
+            "price": "Rs 880",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/b/5b2ac078901023016448_2802241.jpg",
+            "category": "HAIRCARE"
+        },
+        {
+            "name": "Godrej Professional Probio Honey Moisture Shampoo, Mask & Spray Conditioner Combo",
+            "price": "Rs 1,131",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/2/2233816GODAF00000118_1YU.jpg",
+            "category": "HAIRCARE"
+        },
+        {
+            "name": "Neuherbs Deep Sea Omega 3 Fish Oil 2500mg Capsules (60 Capsules)",
+            "price": "Rs 703",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/a/8a68e39NEUHE00000001_0a.jpg",
+            "category": "SKINCARE"
+        },
+        {
+            "name": "Carbamide Forte Triple Strength Omega 3 Fish Oil 1400mg Capsules (60 Capsules)",
+            "price": "Rs 699",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/7/976e39eNYKCAF0000056_0512_01.jpg",
+            "category": "HAIRCARE"
+        },
+        {
+            "name": "Winston Premium Blow Brush With Adjustable Temperature Heat Setting - Black (1 PCs)",
+            "price": "Rs 2,199",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/8/d8575f1WINST00000021_1.jpg",
+            "category": "HAIRCARE"
+        },
+        {
+            "name": "BBlunt Intense Moisture Shampoo & Conditioner Combo (2 pcs)",
+            "price": "Rs 638",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/9/39b088fBBLUN00000046.jpg",
+            "category": "HAIRCARE"
+        },
+        {
+            "name": "BBlunt Salon Secret High Shine Creme Hair Colour - Coffee Natural Brown (152ml)",
+            "price": "Rs 311",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/7/f7d40a98904417307351_1.jpg",
+            "category": "HAIRCARE"
+        },
+        {
+            "name": "Dot & Key Vitamin C + E Super Bright Face Moisturizer For Glowing Skin, Fades Dark Spots (60 ml)",
+            "price": "Rs 431",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/d/6d6054dDOTKE00000054_1220324.jpg",
+            "category": "SKINCARE"
+        },
+        {
+            "name": "Olay Vitamin C Super Serum - 99% Pure Niacinamide For 2X Glow 78% Spot Reduction - Cleanser Free (30ml+100g)",
+            "price": "Rs 939",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/0/8087552OLAYX00000106_171120231.jpg",
+            "category": "SKINCARE"
+        },
+        {
+            "name": "Ponds Age Miracle Anti Aging Day Cream with 10% Retinol-C Niacinamide & Collagen Complex SPF 15 PA++ (50g)",
+            "price": "Rs 536",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/f/6fa60d98901030642951_1.jpg",
+            "category": "SKINCARE"
+        },
+        {
+            "name": "Oziva Plant Based Collagen Builder And Oziva Glutathione Builder (2 pcs)",
+            "price": "Rs 1,582",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/e/3ed8db0OZIVA00000258_1.jpg",
+            "category": "SKINCARE"
+        },
+        {
+            "name": "Ponds Age Miracle Retinol Combo",
+            "price": "Rs 1,004",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/4/0/408df60NYPOND0000010_1.jpg",
+            "category": "SKINCARE"
+        },
+        {
+            "name": "Sirona Electronic Eyebrow Facial Hair Removal Trimmer or Razor for Women(1 Pc)",
+            "price": "Rs 449",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/e/1e225eeSIRON00000109_2609_1.jpg",
+            "category": "BATH&BODY"
+        },
+        {
+            "name": "Chemist at Play Retinol Anti-Aging Body Lotion + Brightening Boost Face Wash Combo (2 pcs)",
+            "price": "Rs 449",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/b/ab22b60CHEMI00000162_M.jpg",
+            "category": "BATH&BODY"
+        },
+        {
+            "name": "Sanfe Promise Face Acne Patch - Pack of 36 Pimple Healing Patch Absorbing Cover (36Pcs)",
+            "price": "Rs 159",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/c/7c5b6a8SANFE00000234_0512_1.jpg",
+            "category": "BATH&BODY"
+        },
+        {
+            "name": "Sanfe Reveal No More Bumps Erasing Body Scrub For Rough, Tan & Strawberry Legs, 10% Glycolic Acid (100 g)",
+            "price": "Rs 349",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/c/7c5b6a8SANFE00000414_0512_1.jpg",
+            "category": "BATH&BODY"
+        },
+        {
+            "name": "Sanfe Eyebrow & Facial Waxing Pen For Women (50 g)",
+            "price": "Rs 349",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/c/7c5b6a8SANFE00000408_0512_1.jpg",
+            "category": "BATH&BODY"
+        },
+        {
+            "name": "Gillette Venus Hair Removal Razor For Women with Aloe Vera Smooth 1 Pc",
+            "price": "Rs 278",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/a/aa72bd64902430857611_1.jpg",
+            "category": "BATH&BODY"
+        },
+        {
+            "name": "RENEE Eau De Parfum Bloom (50ml)",
+            "price": "Rs 435",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/c/cca6d7bRENEE00000301_1.jpg",
+            "category": "FRAGRANCE"
+        },
+        {
+            "name": "Plum BodyLovin' Vanilla Vibes Eau De Parfum - Long Lasting Warm Vanilla Perfume (15ml)",
+            "price": "Rs 260",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/1/11d8238PLUMX00000286_1PO.jpg",
+            "category": "FRAGRANCE"
+        },
+        {
+            "name": "RENEE Red Noir Eau De Parfum (50ml)",
+            "price": "Rs 435",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/c/cca6d7bRENEE00000459_1.jpg",
+            "category": "FRAGRANCE"
+        },
+        {
+            "name": "Moi Mini Fragrance Gift Set Of 4 (4 pcs)",
+            "price": "Rs 893",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/3/23e8952MOIXX00000055_1.jpg",
+            "category": "FRAGRANCE"
+        },
+        {
+            "name": "BVLGARI Omnia Amethyste Eau de Toilette (50ml)",
+            "price": "Rs 8,550",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/6/e6dfb71783320420627_1.jpg",
+            "category": "FRAGRANCE"
+        },
+        {
+            "name": "Wanderlust Strawberry Daiquiri Fragrance Body Mist (200ml)",
+            "price": "Rs 365",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/c/1ca01738904245711627_1.jpg",
+            "category": "FRAGRANCE"
+        },
+        {
+            "name": "Ikonic Me 3 In 1 Express Styler - Pink (850 g)",
+            "price": "Rs 1,990",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/4/14ad1588904231008816_1.jpg",
+            "category": "APPLIANCES"
+        },
+        {
+            "name": "Ikonic Me Go Straight Hair Straightener (400 g)",
+            "price": "Rs 870",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/7/07f91ccIKONI00000119_01.jpg",
+            "category": "APPLIANCES"
+        },
+        {
+            "name": "Ikonic Professional Curling Tong CT28",
+            "price": "Rs 2,880",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/e/fe16b0d8904231000063_1.jpg",
+            "category": "APPLIANCES"
+        },
+        {
+            "name": "VEGA VHSS-03 Miss Versatile Styling Kit",
+            "price": "Rs 2,399",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/5/e56a11c8904086303050_0a.jpg",
+            "category": "APPLIANCES"
+        },
+        {
+            "name": "VEGA Professional Mighty Mini Triple Tong Hair Waver (VPVMS-07) (1 pcs)",
+            "price": "Rs 1,650",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/9/498e9c58904086303364_0.jpg",
+            "category": "APPLIANCES"
+        },
+        {
+            "name": "Winston 3 In 1 LED Light Therapy Face Mask (1 pieces)",
+            "price": "Rs 2,399",
+            "src": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/8/d8575f1WINST00000004_1.jpg",
+            "category": "APPLIANCES"
+        }
+        
+    ]
+}
+

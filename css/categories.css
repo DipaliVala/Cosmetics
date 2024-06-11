@@ -1,0 +1,49 @@
+
+.button {
+  padding: 7px;
+  background-color: blue;
+  width: fit-content;
+  border-radius: 6px;
+  color: white;
+  cursor: pointer;
+}
+
+.button:hover {
+  opacity: 0.6;
+}
+
+h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.prodName {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 18px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 18px;
+  color: rgb(46, 46, 46);
+}
+button {
+  flex-shrink: 0;
+  border: 3px solid #eb62ab;
+}
+body {
+  overflow: auto;
+}
+
+img {
+  width: 100%;
+  object-fit: contain;
+}

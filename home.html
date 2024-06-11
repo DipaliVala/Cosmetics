@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shop</title>
+    <link rel="stylesheet" href="../styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+    />
+    <style>
+      .slider-container {
+      width: 100%;
+      overflow: hidden;
+    }
+
+    .slider-wrapper {
+      display: flex;
+      transition: transform 0.01s ease-in-out;
+    }
+
+    .slide {
+      min-width: 100%;
+      box-sizing: border-box;
+    }
+
+    img {
+      width: 100%;
+      height: 500px;
+    }
+    </style>
+    
+  </head>
+
+  <body>
+    <div class="main">
+      <!-- Main banner image -->
+      <!-- <div class="bannerImg">
+        <img
+          src="https://images-static.nykaa.com/uploads/129930a1-0cac-4b58-b6cb-8c2f8f7cf580.gif?tr=cm-pad_resize,w-1200"
+          alt=""
+          width="50%"
+        />
+      </div> -->
+      <div class="slider-container">
+        <div class="slider-wrapper">
+          <div class="slide"><img src="https://images-static.nykaa.com/uploads/02d342ec-1f39-45ab-afba-75ec087bc5d0.gif?tr=cm-pad_resize,w-1200" alt="Slide 1"></div>
+          <div class="slide"><img src="https://images-static.nykaa.com/uploads/a4fd47fe-1b63-4c5e-a291-e5182767bde9.jpg?tr=cm-pad_resize,w-1800" alt="Slide 2"></div>
+          <div class="slide"><img src="https://images-static.nykaa.com/uploads/100a0230-109f-4435-9494-cc149d9e8681.png?tr=cm-pad_resize,w-1800" alt="Slide 3"></div>
+          <div class="slide"><img src="https://images-static.nykaa.com/uploads/794b89be-1be4-4531-8788-6ab4708d522a.jpg?tr=cm-pad_resize,w-1800" alt="Slide 4"></div>
+          <div class="slide"><img src="https://images-static.nykaa.com/uploads/33220b3a-89bc-44e2-8158-cb6ae94d17b2.jpg?tr=cm-pad_resize,w-1800" alt="Slide 5"></div>
+          <div class="slide"><img src="https://images-static.nykaa.com/uploads/db97bfe3-12d3-4639-be65-a9d7887c9b3f.jpg?tr=cm-pad_resize,w-1800" alt="Slide 6"></div>
+          
+        </div>
+      </div>
+
+      <!-- card layout -->
+      <div class="cardHolder" id="cardHolder"></div>
+    </div>
+  </body>
+  <script type="module" src="../modules/home.js"></script>
+</html>

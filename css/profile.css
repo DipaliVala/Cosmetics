@@ -1,0 +1,26 @@
+body,
+html {
+  overflow-y: auto;
+  height: 100vh;
+  width: 100vw;
+}
+
+body {
+  background-color: #ebe9e9;
+}
+.profile {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  background-image: linear-gradient(
+    to bottom,
+    #ffffff,
+    #dee3f4,
+    #b2ccea,
+    #77b7db,
+    #00a3c5
+  );
+}

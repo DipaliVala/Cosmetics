@@ -1,0 +1,96 @@
+
+<div class="navbar" id="navbar" >
+  <div class="logo" >
+    <img style="padding-left: 15px; width:180px;height: 80px;" src="Images/flogo1.png">
+  </div>
+  <div class="navsHolder">
+    <a href="../home.html">
+      <div class="navs" style="font-size: 35px;">Home</div>
+    </a>
+    <a href="../categories.html">
+      <div class="navs" style="font-size: 35px;">Categories</div>
+    </a>
+    <a href="../beautyVideos.html">
+      <div class="navs" style="font-size: 35px;">Videos</div>
+    </a>
+    <!-- <a href="../login.html">
+      <div class="navs">Login</div>
+    </a> -->
+
+  </div>
+
+  <div class="userActionsHolder">
+    <div
+      class="userActions"
+      id="themeToggler"
+      role="button"
+      onclick="themeTogglerHandle()"
+    >
+      <span class="material-symbols-outlined" id="theme"> dark_mode </span>
+    </div>
+
+    <div class="userActions" id="cart">
+      <div class="cartCount" id="cartCount">2</div>
+      <a href="../cart.html">
+        <span class="material-symbols-outlined"> shopping_cart </span>
+      </a>
+    </div>
+
+    <div class="userActions">
+      <a href="../wishlist.html">
+        <span class="material-symbols-outlined"> loyalty </span>
+      </a>
+    </div>
+
+    <div class="userActions">
+      <a href="../login.html">
+        <span class="material-symbols-outlined"> person </span>
+      </a>
+    </div>
+    <!-- <div class="userActions">
+      <a href="../login.html">
+        <span class="material-symbols-outlined"> Login </span>
+      </a>
+    </div> -->
+  </div>
+
+  <div id="menu" onclick="showDrawer()">
+    <span class="material-symbols-outlined"> menu </span>
+  </div>
+
+  <div class="drawer" id="drawer">
+    <div
+      style="
+        width: 100%;
+        display: flex;  
+        justify-content: flex-end;
+        padding: 30px;
+        box-sizing: border-box;
+        background-color: transparent;
+      "
+    >
+      <span class="material-symbols-outlined" id="navbar-menu-button" onclick="closeDrawer()">
+        close
+      </span>
+    </div>
+
+    <div class="navs1">
+      <a href="../home.html"> home </a>
+    </div>
+    <div class="navs1">
+      <a href="../categories.html"> Categories </a>
+    </div>
+    <div class="navs1">
+      <a href="../cart.html"> Cart </a>
+    </div>
+    <div class="navs1">
+      <a href="../wishlist.html"> Wishlist</a>
+    </div>
+    <div class="navs1">
+      <a href="../profile.html"> Profile</a>
+    </div>
+    <div class="navs1">
+      <a href="../login.html">Login</a>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>User Profile</title>
+    <link rel="stylesheet" href="../styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+    />
+  </head>
+  <link rel="stylesheet" href="../css/profile.css" />
+
+  <body>
+    <div class="header"></div>
+    <div class="profile">
+      <div class="profile-attribute">
+        <h2>User Information</h2>
+        <img
+          class="profile-image"
+          src="https://oyster.ignimgs.com/mediawiki/apis.ign.com/pokemon-blue-version/8/89/Pikachu.jpg"
+          style="object-fit: contain"
+          alt="User Profile Image"
+        />
+        <div class="info">
+          <div class="attribute attribute-type">Name:</div>
+          <div class="attribute attribute-value">John Doe</div>
+          <div class="attribute attribute-type">Email:</div>
+          <div class="attribute attribute-value">john.doe@example.com</div>
+          <div class="attribute attribute-type">Gender:</div>
+          <div class="attribute attribute-value">Male</div>
+          <div class="attribute attribute-type">DOB:</div>
+          <div class="attribute attribute-value">01/01/2000</div>
+          <div class="attribute attribute-type">Phone:</div>
+          <div class="attribute attribute-value">(555) 123-4567</div>
+          <div class="attribute attribute-type">Address:</div>
+          <div class="attribute attribute-value">
+            123 Main St, Cityville, State, 12345
+          </div>
+        </div>
+      </div>
+
+      <div class="profile-attribute order-history">
+        <h2>Order History</h2>
+        <div class="info">
+          <div class="attribute attribute-type">Order</div>
+          <div class="attribute attribute-type" style="text-align: left">
+            Status
+          </div>
+          <div class="attribute attribute-type">#13579</div>
+          <div class="attribute attribute-value">Order Placed</div>
+          <div class="attribute attribute-type">#12345</div>
+          <div class="attribute attribute-value">Shipped</div>
+          <div class="attribute attribute-type">#67890</div>
+          <div class="attribute attribute-value">Delivered</div>
+        </div>
+      </div>
+    </div>
+  </body>
+
+  <script type="module" src="../modules/profile.js"></script>
+</html>

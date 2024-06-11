@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "firebase": "^10.10.0",
+    "flask": "^0.2.10",
+    "python": "^0.0.4"
+  }
+}
