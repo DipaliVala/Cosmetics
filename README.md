@@ -1,4 +1,4 @@
-Cosmetics Website
+#Cosmetics Website
 This repository contains the code for a Cosmetics Website. This project aims to provide an online platform for browsing and purchasing cosmetic products, offering a user-friendly experience.
 
 Table of Contents
