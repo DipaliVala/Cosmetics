@@ -1,5 +1,5 @@
-#Cosmetics Website
-This repository contains the code for a Cosmetics Website. This project aims to provide an online platform for browsing and purchasing cosmetic products, offering a user-friendly experience.
+# Cosmetics Website
+<!-- This repository contains the code for a Cosmetics Website. This project aims to provide an online platform for browsing and purchasing cosmetic products, offering a user-friendly experience.
 
 Table of Contents
 Features
@@ -136,4 +136,4 @@ Distributed under the MIT License. See LICENSE for more information.
 Contact
 Dipali Vala - [Your Email/LinkedIn/GitHub Profile]
 
-Project Link: https://github.com/DipaliVala/Cosmetics
+Project Link: https://github.com/DipaliVala/Cosmetics -->
