@@ -65,7 +65,6 @@ Cosmetics/
 git clone https://github.com/DipaliVala/Cosmetics.git
 cd Cosmetics
 ```
-## 🚀 Getting Started
 
 ### 2. Open the Application
 
