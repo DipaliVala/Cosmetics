@@ -1,4 +1,10 @@
 # 💄 Cosmetics Web Application
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white" />
+</p>
 
 An interactive and responsive cosmetics e-commerce website built using HTML, CSS, JavaScript, and JSON.  
 Users can browse products, filter by categories, manage their cart and wishlist, and explore beauty video tutorials.
